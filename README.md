@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jamie</h1>
-<h3 align="center">A passionate Blockchain Developer and Web Developer.</h3>
+<h1 align="left">Hi 👋, I'm Jamie</h1>
+<h3 align="left">A passionate Blockchain Developer and Web Developer.</h3>
 
 📫 How to reach me **jamie@cryptnology.dev**
 
