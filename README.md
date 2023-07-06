@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/cryptnologydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cryptnologydev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamie-anderson-121061200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamie-anderson-121061200" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc1ksb5e9feqkb3tl3nvaciw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1ksb5e9feqkb3tl3nvaciw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1ksb5e9FEqKB3Tl3NvaCIw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1ksb5e9feqkb3tl3nvaciw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
